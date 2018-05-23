@@ -1,0 +1,11 @@
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/bin/Debug/netcoreapp2.0/PolymerTest.deps.json
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/bin/Debug/netcoreapp2.0/PolymerTest.runtimeconfig.json
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/bin/Debug/netcoreapp2.0/PolymerTest.runtimeconfig.dev.json
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/bin/Debug/netcoreapp2.0/PolymerTest.dll
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/bin/Debug/netcoreapp2.0/PolymerTest.pdb
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.csprojAssemblyReference.cache
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.csproj.CoreCompileInputs.cache
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.AssemblyInfoInputs.cache
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.AssemblyInfo.cs
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.dll
+/Users/andrewweathers/workspace/PolymerTest/PolymerTest/obj/Debug/netcoreapp2.0/PolymerTest.pdb
